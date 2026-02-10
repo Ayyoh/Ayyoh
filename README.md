@@ -1,16 +1,56 @@
-## Hi there 👋
+# 👋 Hi, I'm Asuna
 
-<!--
-**Ayyoh/Ayyoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **full-stack developer** who enjoys building modern, scalable web applications with clean architecture and practical features. I focus on writing maintainable code, learning by building, and continuously improving my craft.
 
-Here are some ideas to get you started:
+I grind nearly **6 hours a day**, turning ideas into working systems and improving one commit at a time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Runtime**
+- TypeScript
+- Node.js
+
+**Backend**
+- Hono
+- Drizzle ORM
+- PostgreSQL
+- BetterAuth
+- Resend (Emails / OTPs)
+
+**Frontend**
+- React
+- TanStack (Query, Router, Form)
+
+**DevOps & Tools**
+- Docker
+- REST APIs
+- JWT / Auth Flows
+
+---
+
+## 🔥 What I Do
+- Build full-stack applications from scratch  
+- Design clean backend APIs and database schemas  
+- Implement authentication, email, and real-world features  
+- Focus on performance, readability, and scalability  
+
+---
+
+## 📈 Mindset
+- Consistency over motivation  
+- Learn by shipping, not just watching  
+- Clean code > clever code, but ofc clean and clever code is the way to go
+
+> “Small improvements every day compound faster than you think.”
+
+---
+
+## 📫 Let's Connect
+- GitHub: **@Ayyoh**
+- Open to collaboration, feedback, and learning opportunities
+
+---
+
+⭐ If you like what I build, feel free to star a repo or reach out.
