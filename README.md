@@ -2,7 +2,7 @@
 
 I'm a **full-stack developer** who enjoys building modern, scalable web applications with clean architecture and practical features. I focus on writing maintainable code, learning by building, and continuously improving my craft.
 
-I grind nearly **6 hours a day**, turning ideas into working systems and improving one commit at a time.
+I grind nearly **12 hours a day**, turning ideas into working systems and improving one commit at a time.
 
 ---
 
