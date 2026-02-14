@@ -14,6 +14,7 @@ I grind nearly **12 hours a day**, turning ideas into working systems and improv
 
 **Backend**
 - Hono
+- Express
 - Drizzle ORM
 - PostgreSQL
 - BetterAuth
@@ -21,6 +22,8 @@ I grind nearly **12 hours a day**, turning ideas into working systems and improv
 
 **Frontend**
 - React
+- React Hot Toast
+- Shadcn
 - TanStack (Query, Router, Form)
 
 **DevOps & Tools**
